@@ -1,3 +1,3 @@
-import { run } from './day6'
+import { run } from './day7'
 
-run('input.txt')
+run()
